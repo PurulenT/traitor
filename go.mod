@@ -1,4 +1,5 @@
 module github.com/liamg/traitor
+//изменение
 
 go 1.18
 
